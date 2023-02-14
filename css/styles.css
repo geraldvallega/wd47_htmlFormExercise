@@ -4,3 +4,8 @@ body{
     height: 100vh;
     margin: 0;
 }
+label{
+    display: inline-block;
+    background-color: aqua;
+    margin: 1rem 0;
+}
